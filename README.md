@@ -39,7 +39,7 @@ This is a beginner-friendly backend project built with Spring Boot. It features 
 ## 4. How to Run
 
 1. Clone the project:
-   git clone https://github.com/your-username/employee-management-backend.git
+   git clone https://github.com/yashika777m/employee-management.git
    cd employee-management-backend
 
 2. Make sure Java 17+ and Maven are installed:
